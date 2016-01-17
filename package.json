@@ -1,0 +1,15 @@
+{
+  "name": "slack-rabbit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "amqplib": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wraithan <xwraithanx@gmail.com>",
+  "license": "ISC"
+}
